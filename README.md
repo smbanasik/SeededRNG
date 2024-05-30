@@ -23,3 +23,7 @@ Usage should be fairly explanatory:
 - For saving the state, of a channel, call `save_channel`
   - This number must be stored by the user
 - To load the state, call `load_channel` with a number provided by `save_channel`
+
+## How to Contribute
+
+If you have some improvement to make, make a pull request. Try to keep the format similar to what has been written.
